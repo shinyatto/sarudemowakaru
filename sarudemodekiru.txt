@@ -3,4 +3,5 @@
 3 [feature2]
 4 [develop]
 5 [develop]
+6 [feature2]
 7 [develop]
