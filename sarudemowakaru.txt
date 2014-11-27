@@ -1,3 +1,0 @@
-サルデモワカルGit 1行目
-commit A
-pull の説明を追加。ここはdevelop。
